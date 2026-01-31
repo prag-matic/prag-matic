@@ -1,4 +1,5 @@
-# 💫 About Me:
+![Developer Banner 4](https://ishan-rest.vercel.app/svg/banner/dev4/PrageethNavodya)
+
 🔭 I’m currently working on: Full-stack web projects using Java, JSP, Servlets, React, and Node.js  <br>👯 I’m looking to collaborate on: Web applications, student projects, and open-source full-stack projects  <br>🌱 I’m currently learning: Advanced React, REST API design, and backend optimization .
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pr4g_m4t1c) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prageeth-perera) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prageethperera2002@gmail.com) 
